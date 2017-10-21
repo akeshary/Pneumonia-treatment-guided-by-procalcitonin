@@ -1,12 +1,12 @@
 author,year,pmid,experimental_events,experimental_total,control_events,control_total,Location,Pneumonia.rate,Risk.of.Bias,Trial.registration
 Briel,        2008,0,0,232,1,226,Primary care trials,,NA,NA
 Burkhardt,    2010,0,0,275,0,275,Primary care trials,,NA,NA
-Christ-Crain, 2004,0,4,124,3,119,Emergency department trials,,NA,NA
-Christ-Crain, 2006,0,18,151,20,151,Emergency department trials,,NA,NA
+Christ-Crain, 2004,14987884,4,124,3,119,Emergency department trials,,NA,NA
+Christ-Crain, 2006,16603606,18,151,20,151,Emergency department trials,,NA,NA
 Stolz,        2007,19797133,3,102,2,106,Emergency department trials,100,NA,NA
 Schuetz,      2009,0,34,671,33,688,Emergency department trials,,NA,NA
 Long,         2009,0,0,63,0,64,Emergency department trials,,NA,NA
-Kristoffersen,2009,0,2,103,1,107,Emergency department trials,,NA,NA
+Kristoffersen,2009,19416298,2,103,1,107,Emergency department trials,,NA,NA
 Long,         2011,0,0,77,0,79,Emergency department trials,,NA,NA
 Tang,         2013,0,1,132,2,133,Emergency department trials,,NA,NA
 Long,         2014,0,0,90,0,90,Emergency department trials,,NA,NA
